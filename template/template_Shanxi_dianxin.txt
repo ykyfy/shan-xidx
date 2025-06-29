@@ -10,8 +10,6 @@ http://ipipip/rtp/239.1.1.6:8006
 http://ipipip/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
 http://ipipip/rtp/239.1.1.2:8002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
-http://ipipip/rtp/
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
 http://ipipip/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
