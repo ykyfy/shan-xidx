@@ -286,27 +286,27 @@ http://1.70.34.30:8085/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
 http://1.70.34.30:8085/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://117.39.37.241:4022/rtp/239.1.1.1:8001
+http://117.39.34.49:4022/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://117.39.37.241:4022/rtp/239.1.1.4:8004
+http://117.39.34.49:4022/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://117.39.37.241:4022/rtp/239.1.1.5:8005
+http://117.39.34.49:4022/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://117.39.37.241:4022/rtp/239.1.1.6:8006
+http://117.39.34.49:4022/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://117.39.37.241:4022/rtp/239.1.1.3:8003
+http://117.39.34.49:4022/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://117.39.37.241:4022/rtp/239.1.1.2:8002
+http://117.39.34.49:4022/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://117.39.37.241:4022/rtp/239.1.1.120:8120
+http://117.39.34.49:4022/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://117.39.37.241:4022/rtp/239.1.1.121:8121
+http://117.39.34.49:4022/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://117.39.37.241:4022/rtp/239.1.1.123:8123
+http://117.39.34.49:4022/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://117.39.37.241:4022/rtp/239.1.1.124:8124
+http://117.39.34.49:4022/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://117.39.37.241:4022/rtp/239.1.1.125:8125
+http://117.39.34.49:4022/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://123.174.106.183:8888/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
@@ -352,225 +352,225 @@ http://124.116.170.138:8081/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
 http://124.116.170.138:8081/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.140:8899/rtp/239.1.1.1:8001
+http://125.76.196.191:8899/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.140:8899/rtp/239.1.1.4:8004
+http://125.76.196.191:8899/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.140:8899/rtp/239.1.1.5:8005
+http://125.76.196.191:8899/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.140:8899/rtp/239.1.1.6:8006
+http://125.76.196.191:8899/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.140:8899/rtp/239.1.1.3:8003
+http://125.76.196.191:8899/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.140:8899/rtp/239.1.1.2:8002
+http://125.76.196.191:8899/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.140:8899/rtp/239.1.1.120:8120
+http://125.76.196.191:8899/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.140:8899/rtp/239.1.1.121:8121
+http://125.76.196.191:8899/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.140:8899/rtp/239.1.1.123:8123
+http://125.76.196.191:8899/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.140:8899/rtp/239.1.1.124:8124
+http://125.76.196.191:8899/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.140:8899/rtp/239.1.1.125:8125
+http://125.76.196.191:8899/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.140:8989/rtp/239.1.1.1:8001
+http://125.76.196.191:8989/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.140:8989/rtp/239.1.1.4:8004
+http://125.76.196.191:8989/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.140:8989/rtp/239.1.1.5:8005
+http://125.76.196.191:8989/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.140:8989/rtp/239.1.1.6:8006
+http://125.76.196.191:8989/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.140:8989/rtp/239.1.1.3:8003
+http://125.76.196.191:8989/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.140:8989/rtp/239.1.1.2:8002
+http://125.76.196.191:8989/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.140:8989/rtp/239.1.1.120:8120
+http://125.76.196.191:8989/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.140:8989/rtp/239.1.1.121:8121
+http://125.76.196.191:8989/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.140:8989/rtp/239.1.1.123:8123
+http://125.76.196.191:8989/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.140:8989/rtp/239.1.1.124:8124
+http://125.76.196.191:8989/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.140:8989/rtp/239.1.1.125:8125
+http://125.76.196.191:8989/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.207:8899/rtp/239.1.1.1:8001
+http://125.76.196.228:8899/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.207:8899/rtp/239.1.1.4:8004
+http://125.76.196.228:8899/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.207:8899/rtp/239.1.1.5:8005
+http://125.76.196.228:8899/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.207:8899/rtp/239.1.1.6:8006
+http://125.76.196.228:8899/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.207:8899/rtp/239.1.1.3:8003
+http://125.76.196.228:8899/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.207:8899/rtp/239.1.1.2:8002
+http://125.76.196.228:8899/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.207:8899/rtp/239.1.1.120:8120
+http://125.76.196.228:8899/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.207:8899/rtp/239.1.1.121:8121
+http://125.76.196.228:8899/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.207:8899/rtp/239.1.1.123:8123
+http://125.76.196.228:8899/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.207:8899/rtp/239.1.1.124:8124
+http://125.76.196.228:8899/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.207:8899/rtp/239.1.1.125:8125
+http://125.76.196.228:8899/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.207:8989/rtp/239.1.1.1:8001
+http://125.76.196.228:8989/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.207:8989/rtp/239.1.1.4:8004
+http://125.76.196.228:8989/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.207:8989/rtp/239.1.1.5:8005
+http://125.76.196.228:8989/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.207:8989/rtp/239.1.1.6:8006
+http://125.76.196.228:8989/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.207:8989/rtp/239.1.1.3:8003
+http://125.76.196.228:8989/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.207:8989/rtp/239.1.1.2:8002
+http://125.76.196.228:8989/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.207:8989/rtp/239.1.1.120:8120
+http://125.76.196.228:8989/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.207:8989/rtp/239.1.1.121:8121
+http://125.76.196.228:8989/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.207:8989/rtp/239.1.1.123:8123
+http://125.76.196.228:8989/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.207:8989/rtp/239.1.1.124:8124
+http://125.76.196.228:8989/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.207:8989/rtp/239.1.1.125:8125
+http://125.76.196.228:8989/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.209:8899/rtp/239.1.1.1:8001
+http://125.76.196.242:8899/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.209:8899/rtp/239.1.1.4:8004
+http://125.76.196.242:8899/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.209:8899/rtp/239.1.1.5:8005
+http://125.76.196.242:8899/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.209:8899/rtp/239.1.1.6:8006
+http://125.76.196.242:8899/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.209:8899/rtp/239.1.1.3:8003
+http://125.76.196.242:8899/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.209:8899/rtp/239.1.1.2:8002
+http://125.76.196.242:8899/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.209:8899/rtp/239.1.1.120:8120
+http://125.76.196.242:8899/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.209:8899/rtp/239.1.1.121:8121
+http://125.76.196.242:8899/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.209:8899/rtp/239.1.1.123:8123
+http://125.76.196.242:8899/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.209:8899/rtp/239.1.1.124:8124
+http://125.76.196.242:8899/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.209:8899/rtp/239.1.1.125:8125
+http://125.76.196.242:8899/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.209:8989/rtp/239.1.1.1:8001
+http://125.76.196.242:8989/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.209:8989/rtp/239.1.1.4:8004
+http://125.76.196.242:8989/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.209:8989/rtp/239.1.1.5:8005
+http://125.76.196.242:8989/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.209:8989/rtp/239.1.1.6:8006
+http://125.76.196.242:8989/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.209:8989/rtp/239.1.1.3:8003
+http://125.76.196.242:8989/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.209:8989/rtp/239.1.1.2:8002
+http://125.76.196.242:8989/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.209:8989/rtp/239.1.1.120:8120
+http://125.76.196.242:8989/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.209:8989/rtp/239.1.1.121:8121
+http://125.76.196.242:8989/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.209:8989/rtp/239.1.1.123:8123
+http://125.76.196.242:8989/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.209:8989/rtp/239.1.1.124:8124
+http://125.76.196.242:8989/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.209:8989/rtp/239.1.1.125:8125
+http://125.76.196.242:8989/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.56:8899/rtp/239.1.1.1:8001
+http://125.76.196.66:8899/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.56:8899/rtp/239.1.1.4:8004
+http://125.76.196.66:8899/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.56:8899/rtp/239.1.1.5:8005
+http://125.76.196.66:8899/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.56:8899/rtp/239.1.1.6:8006
+http://125.76.196.66:8899/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.56:8899/rtp/239.1.1.3:8003
+http://125.76.196.66:8899/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.56:8899/rtp/239.1.1.2:8002
+http://125.76.196.66:8899/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.56:8899/rtp/239.1.1.120:8120
+http://125.76.196.66:8899/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.56:8899/rtp/239.1.1.121:8121
+http://125.76.196.66:8899/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.56:8899/rtp/239.1.1.123:8123
+http://125.76.196.66:8899/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.56:8899/rtp/239.1.1.124:8124
+http://125.76.196.66:8899/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.56:8899/rtp/239.1.1.125:8125
+http://125.76.196.66:8899/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://125.76.196.56:8989/rtp/239.1.1.1:8001
+http://125.76.196.66:8989/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://125.76.196.56:8989/rtp/239.1.1.4:8004
+http://125.76.196.66:8989/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://125.76.196.56:8989/rtp/239.1.1.5:8005
+http://125.76.196.66:8989/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://125.76.196.56:8989/rtp/239.1.1.6:8006
+http://125.76.196.66:8989/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://125.76.196.56:8989/rtp/239.1.1.3:8003
+http://125.76.196.66:8989/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://125.76.196.56:8989/rtp/239.1.1.2:8002
+http://125.76.196.66:8989/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://125.76.196.56:8989/rtp/239.1.1.120:8120
+http://125.76.196.66:8989/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://125.76.196.56:8989/rtp/239.1.1.121:8121
+http://125.76.196.66:8989/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://125.76.196.56:8989/rtp/239.1.1.123:8123
+http://125.76.196.66:8989/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://125.76.196.56:8989/rtp/239.1.1.124:8124
+http://125.76.196.66:8989/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://125.76.196.56:8989/rtp/239.1.1.125:8125
+http://125.76.196.66:8989/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://219.144.113.75:8888/rtp/239.1.1.1:8001
+http://219.144.113.69:8888/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://219.144.113.75:8888/rtp/239.1.1.4:8004
+http://219.144.113.69:8888/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://219.144.113.75:8888/rtp/239.1.1.5:8005
+http://219.144.113.69:8888/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://219.144.113.75:8888/rtp/239.1.1.6:8006
+http://219.144.113.69:8888/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://219.144.113.75:8888/rtp/239.1.1.3:8003
+http://219.144.113.69:8888/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://219.144.113.75:8888/rtp/239.1.1.2:8002
+http://219.144.113.69:8888/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://219.144.113.75:8888/rtp/239.1.1.120:8120
+http://219.144.113.69:8888/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://219.144.113.75:8888/rtp/239.1.1.121:8121
+http://219.144.113.69:8888/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://219.144.113.75:8888/rtp/239.1.1.123:8123
+http://219.144.113.69:8888/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://219.144.113.75:8888/rtp/239.1.1.124:8124
+http://219.144.113.69:8888/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://219.144.113.75:8888/rtp/239.1.1.125:8125
+http://219.144.113.69:8888/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
-http://222.90.82.219:8888/rtp/239.1.1.1:8001
+http://222.90.82.20:8888/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
-http://222.90.82.219:8888/rtp/239.1.1.4:8004
+http://222.90.82.20:8888/rtp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="卫视高清",山西社会与法治
-http://222.90.82.219:8888/rtp/239.1.1.5:8005
+http://222.90.82.20:8888/rtp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="卫视高清",山西文体生活
-http://222.90.82.219:8888/rtp/239.1.1.6:8006
+http://222.90.82.20:8888/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="卫视高清",山西经济与科技
-http://222.90.82.219:8888/rtp/239.1.1.3:8003
+http://222.90.82.20:8888/rtp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png" group-title="卫视高清",黄河卫视
-http://222.90.82.219:8888/rtp/239.1.1.2:8002
+http://222.90.82.20:8888/rtp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="1" tvg-name="晋中综合" tvg-logo="https://live.fanmingming.com/tv/晋中综合.png" group-title="卫视高清",晋中综合
-http://222.90.82.219:8888/rtp/239.1.1.120:8120
+http://222.90.82.20:8888/rtp/239.1.1.120:8120
 #EXTINF:-1 tvg-id="1" tvg-name="晋中公共" tvg-logo="https://live.fanmingming.com/tv/晋中公共.png" group-title="卫视高清",晋中公共
-http://222.90.82.219:8888/rtp/239.1.1.121:8121
+http://222.90.82.20:8888/rtp/239.1.1.121:8121
 #EXTINF:-1 tvg-id="1" tvg-name="运城-1" tvg-logo="https://live.fanmingming.com/tv/运城-1.png" group-title="卫视高清",运城-1
-http://222.90.82.219:8888/rtp/239.1.1.123:8123
+http://222.90.82.20:8888/rtp/239.1.1.123:8123
 #EXTINF:-1 tvg-id="1" tvg-name="运城-2" tvg-logo="https://live.fanmingming.com/tv/运城-2.png" group-title="卫视高清",运城-2
-http://222.90.82.219:8888/rtp/239.1.1.124:8124
+http://222.90.82.20:8888/rtp/239.1.1.124:8124
 #EXTINF:-1 tvg-id="1" tvg-name="盐湖频道" tvg-logo="https://live.fanmingming.com/tv/盐湖频道.png" group-title="卫视高清",盐湖频道
-http://222.90.82.219:8888/rtp/239.1.1.125:8125
+http://222.90.82.20:8888/rtp/239.1.1.125:8125
 #EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://223.8.210.31:8083/rtp/239.1.1.1:8001
 #EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="卫视高清",山西影视
